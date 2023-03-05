@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Efficia-Reader",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Boldens the first few letters of every word to which supposedly makes it faster to read",
   "icons": {
     "16": "images/icon-16.png",
